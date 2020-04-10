@@ -12,10 +12,22 @@ background: silver;
 background:  #e6e6ff;
 }
 
-#banner, #footer
+%banner {
+	text-align: center;
+  }
+
+#banner
 {
-text-align: center;
+@extend %banner;
+	font-family: cursive;
 }
+
+ #footer
+{
+@extend %banner;
+	font-family: sans-serif;
+}
+
 
 .tbl
 {

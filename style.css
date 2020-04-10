@@ -9,6 +9,12 @@ body {
 #banner, #footer {
   text-align: center; }
 
+#banner {
+  font-family: cursive; }
+
+#footer {
+  font-family: sans-serif; }
+
 .tbl {
   width: 40%; }
 
