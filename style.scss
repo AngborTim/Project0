@@ -1,0 +1,28 @@
+body
+{
+margin-left : 10%;
+margin-right: 10%;
+background: silver;
+}
+
+.div_body
+{
+background:  #e6e6ff;
+}
+
+#banner, #footer
+{
+text-align: center;
+}
+
+.tbl
+{
+width: 40%;
+}
+
+
+p::first-letter, H2::first-letter
+{
+font-size: 150%;
+color: DarkBlue;
+}
