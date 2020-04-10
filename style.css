@@ -21,7 +21,7 @@ width: 40%;
 }
 
 
-p::first-letter
+p::first-letter, H2::first-letter
 {
 font-size: 150%;
 color: DarkBlue;
