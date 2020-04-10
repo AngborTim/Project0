@@ -28,7 +28,7 @@ p::first-letter, H2::first-letter {
   color: DarkBlue; }
 
 @media (max-width: 499px) {
-  brc {
+  .brc {
     display: none; } }
 
 /*# sourceMappingURL=style.css.map */
