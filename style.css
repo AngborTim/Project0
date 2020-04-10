@@ -13,3 +13,9 @@ text-align: center;
 width: 40%;
 }
 
+
+p::first-letter
+{
+font-size: 150%;
+color: DarkBlue;
+}
