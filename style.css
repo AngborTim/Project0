@@ -1,34 +1,48 @@
 body {
   margin-left: 10%;
   margin-right: 10%;
-  background: silver; }
+  background: silver;
+}
 
 .div_body {
-  background: #e6e6ff; }
+  background: #e6e6ff;
+}
 
-#banner, #footer {
-  text-align: center; }
+#footer, #banner {
+  text-align: center;
+}
 
 #banner {
-  font-family: cursive; }
+  font-family: cursive;
+}
 
 #footer {
-  font-family: sans-serif; }
+  font-family: sans-serif;
+}
 
 .tbl {
-  width: 40%; }
+  width: 40%;
+}
 
 p {
-  text-align: justify; }
-  p i {
-    color: DarkBlue; }
+  text-align: justify;
+}
+p i {
+  color: DarkBlue;
+}
 
 p::first-letter, H2::first-letter {
   font-size: 150%;
-  color: DarkBlue; }
+  color: DarkBlue;
+}
 
 @media (max-width: 499px) {
   .brc {
-    display: none; } }
+    display: none;
+  }
+}
+img {
+  padding: 10px;
+}
 
 /*# sourceMappingURL=style.css.map */
